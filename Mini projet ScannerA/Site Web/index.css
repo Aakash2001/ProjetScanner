@@ -1,0 +1,96 @@
+html {
+	margin: 15px;
+	background-color: lightseagreen;
+	font-family: "Lucida Sans Unicode";
+}
+
+body {
+	margin: auto;
+	height: 100%;
+	padding: 41px;
+	border-color: white;
+	border-style: solid;
+
+}
+
+header {
+	text-align: center;
+	border-style: dotted;
+	border-color: seagreen;
+
+}
+
+img {
+	height :200px;
+	width: 200px;
+	padding-left: 150px; ;
+}
+
+input, select {
+	width : 80%;
+	padding : 3px;
+	display: inline-block;
+	vertical-align: inherit;
+	background-color: mintcream;
+}
+
+#valid {
+	padding : 5px;
+	width: 60px;
+	margin-right: 870px;
+	float: right;
+}
+#valid : hover {
+	background-color: green;
+	color: white;
+}
+#nom {
+	width: 85.5%;
+}
+#ddn {
+	width: 61%;
+}
+#ldn {
+	width: 63%;
+}
+#gender {
+	width: 30%;
+}
+#adresse {
+	width: 90%;
+}
+#mail{
+	width:92%;
+}
+#tel {
+	width: 88%;
+}
+#natio {
+	width: 87.5%;
+}
+#ddc, #dde {
+	width: 62%;
+}
+.data tr td {
+	padding : 15px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+	border-collapse: collapse;
+
+}
+
+table {
+	margin:  auto;
+	width: 60%;
+}
+
+footer {
+	text-align: center;
+	color: dimgray;
+	padding: 10px;
+	position: absolute;
+	bottom:1px;
+	width: 91.5%;
+	
+}
